@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\ProgrameC\u002B\u002BPOO\\jocVideo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBDA28D9-A29A-4B7F-8982-863BC7C2C2D5}|jocVideo.vcxproj|D:\\Programming\\ProgrameC\u002B\u002BPOO\\jocVideo\\jocVideo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBDA28D9-A29A-4B7F-8982-863BC7C2C2D5}|jocVideo.vcxproj|solutionrelative:jocVideo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "jocVideo.cpp",
+              "DocumentMoniker": "D:\\Programming\\ProgrameC\u002B\u002BPOO\\jocVideo\\jocVideo.cpp",
+              "RelativeDocumentMoniker": "jocVideo.cpp",
+              "ToolTip": "D:\\Programming\\ProgrameC\u002B\u002BPOO\\jocVideo\\jocVideo.cpp",
+              "RelativeToolTip": "jocVideo.cpp",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-30T19:27:21.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
