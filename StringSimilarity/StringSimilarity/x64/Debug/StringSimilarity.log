@@ -1,3 +1,0 @@
-﻿  StringSimilarity.cpp
-D:\Programming\C++\StringSimilarity\StringSimilarity.cpp(20,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-  StringSimilarity.vcxproj -> D:\Programming\C++\StringSimilarity\x64\Debug\StringSimilarity.exe
