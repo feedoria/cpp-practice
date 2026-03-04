@@ -1,9 +1,0 @@
-﻿  jocVideo.cpp
-D:\Programming\ProgrameC++POO\jocVideo\jocVideo.cpp(76,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-D:\Programming\ProgrameC++POO\jocVideo\jocVideo.cpp(133,25): warning C4584: 'Vrajitor': base-class 'IThrowable' is already a base-class of 'PersonajJoc'
-      D:\Programming\ProgrameC++POO\jocVideo\jocVideo.cpp(5,7):
-      see declaration of 'IThrowable'
-      D:\Programming\ProgrameC++POO\jocVideo\jocVideo.cpp(11,7):
-      see declaration of 'PersonajJoc'
-  
-  jocVideo.vcxproj -> D:\Programming\ProgrameC++POO\jocVideo\x64\Debug\jocVideo.exe
